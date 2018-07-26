@@ -1,5 +1,8 @@
 import pydivert
 
+#choose ports
+
+
 w = pydivert.WinDivert("tcp.DstPort == 443 and tcp.PayloadLength > 0")
 w.open()
 
