@@ -4,7 +4,7 @@ ports = []
 a = True
 filter = ""
 
-while a:
+ a:
     ports.append(input("Enter Port To Block (or 0 if no more ports are needed): "))
     if "0" in ports:
         a = False
