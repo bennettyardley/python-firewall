@@ -1,4 +1,3 @@
-import pydivert
 
 ports = []
 a = True
