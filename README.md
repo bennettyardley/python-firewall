@@ -1,5 +1,5 @@
 # python-firewall
-A firewall written in python.
+A  written in python.
 
 PyDivert is required.
 
